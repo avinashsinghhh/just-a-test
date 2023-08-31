@@ -4,6 +4,10 @@ green
 yellow
 orange
 violet
+purple
+magenta
+pale yellow
+dark green
 indigo
 blue
 That's it.
